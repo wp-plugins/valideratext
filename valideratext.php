@@ -2,8 +2,8 @@
 /*
 Plugin Name: Valideratext
 Plugin URI: http://www.hypernode.se/valideratext
-Description: Koppling till ValideraText.se för redaktionellt stöd. Valideratext.se hjälper dig att skriva texter som är enkla och lätta att förstå.
-Version: 0.1
+Description: Koppling till Valideratext.se för redaktionellt stöd. Valideratext.se hjälper dig att skriva texter som är enkla och lätta att förstå.
+Version: 0.2
 Author: Hypernode AB, Andreas Ek
 Author URI: http://www.hypernode.se
 License: GPL2
