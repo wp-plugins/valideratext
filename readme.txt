@@ -4,7 +4,7 @@ Donate link: http://www.hypernode.se/
 Tags: valideratext, editorial support, LIX
 Requires at least: 3.2
 Tested up to: 3.2.1
-Stable tag: 0.2
+Stable tag: 0.3
 
 Valideratext.se för WordPress via Hypernode
 
@@ -22,11 +22,13 @@ Ladda ner den nu och använd den i din WordPress-installation direkt.
 
 Hypernode är återförsäljare av Valideratext. Kontakta oss gärna för mer information! 08-551 195 80
 
+Roadmap: Nästa version, administratörsinställningar för dig som prenumererar på tjänsten.
+
 mvh Andreas Ek, Hypernode AB.
 
 == Installation ==
 
-Ladda ner till din WordPress-installation.
+Ladda ner till din WordPress-installation på vanligt vis via WordPress offentliga repository.
 Aktivera denna modul via "tillägg".
 Använd funktionen i din redigerare, det är en egen knapp för funktionen.
 
@@ -40,6 +42,9 @@ Använd funktionen i din redigerare, det är en egen knapp för funktionen.
 * Justering av ikonen
 * Nyrader fixade
 
+= 0.3 =
+* Fix med svenska tecken och nyrader, dock ej testat i IE/Win-miljö.
+
 == Upgrade Notice ==
 
 = 0.1 =
@@ -47,3 +52,6 @@ Inte något att installera egentligen. Nu vill vi bara finnas med i repositoriet
 
 = 0.2 =
 Bara att uppgradera, uppdateringen påverkar inte något tidigare inmatat.
+
+= 0.3 =
+Inga förändringar vid uppgradering, bara att köra på!
