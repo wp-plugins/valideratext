@@ -4,7 +4,7 @@ Donate link: http://www.hypernode.se/
 Tags: valideratext, editorial support, LIX
 Requires at least: 3.2
 Tested up to: 3.2.1
-Stable tag: 0.3
+Stable tag: 0.4
 
 Valideratext.se för WordPress via Hypernode
 
@@ -45,6 +45,9 @@ Använd funktionen i din redigerare, det är en egen knapp för funktionen.
 = 0.3 =
 * Fix med svenska tecken och nyrader, dock ej testat i IE/Win-miljö.
 
+= 0.4 =
+* Fix för IE
+
 == Upgrade Notice ==
 
 = 0.1 =
@@ -54,4 +57,7 @@ Inte något att installera egentligen. Nu vill vi bara finnas med i repositoriet
 Bara att uppgradera, uppdateringen påverkar inte något tidigare inmatat.
 
 = 0.3 =
-Inga förändringar vid uppgradering, bara att köra på!
+Inga förändringar vid uppgradering, du kan dock behöva köra CTRL+R i webbläsaren för att uppdatera cache, speciellt för javascriptfiler.
+
+= 0.4 =
+Kom ihåg att göra refresh på din webbläsare efter uppdatering! (CTRL+R) 
