@@ -4,7 +4,7 @@ Donate link: http://www.hypernode.se/
 Tags: valideratext, editorial support, LIX
 Requires at least: 3.2
 Tested up to: 3.4.2
-Stable tag: 0.4
+Stable tag: 0.5
 
 Valideratext.se för WordPress via Flowcom AB
 
@@ -43,6 +43,9 @@ Använd funktionen i din redigerare, det är en egen knapp för funktionen.
 2. Valideratext analyserar din text och ger dig instruktioner och statistik för att öka läsbarhet och förståelse.
 
 == Changelog ==
+
+= 0.5 =
+Readme-uppdatering och bilder tillagda.
 
 = 0.4 =
 * Fix för IE
