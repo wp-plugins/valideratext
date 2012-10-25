@@ -14,7 +14,7 @@ function valideratext(text) {
                 title : 'Insert Valideratext',
                 onclick : function() {
                     
-                    console.debug(ed.getContent());
+                    //console.debug(ed.getContent());
                     
                     var txt = ed.getContent();
                     

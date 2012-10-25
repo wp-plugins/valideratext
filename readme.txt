@@ -1,16 +1,16 @@
 === Plugin Name ===
 Contributors: EkAndreas
-Donate link: http://www.hypernode.se/
+Donate link: http://www.flowcom.se/
 Tags: valideratext, editorial support, LIX
 Requires at least: 3.2
 Tested up to: 3.4.2
-Stable tag: 0.5
+Stable tag: 0.6
 
 Valideratext.se för WordPress via Flowcom AB
 
 == Description ==
 
-This is a plugin for the Swedish market and not translated to English as the service it uses only support Swedish.
+This plugin uses the Swedish service Valideratext.se. Therefore there is no other language support in this description or in the plugin.
 
 - - -
 
@@ -44,8 +44,11 @@ Använd funktionen i din redigerare, det är en egen knapp för funktionen.
 
 == Changelog ==
 
+= 0.6 =
+* Internet Explorer fix in editor-js-file
+
 = 0.5 =
-Readme-uppdatering och bilder tillagda.
+* Readme-uppdatering och bilder tillagda.
 
 = 0.4 =
 * Fix för IE
