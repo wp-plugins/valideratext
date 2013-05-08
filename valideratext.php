@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Valideratext
-Plugin URI: http://www.hypernode.se/valideratext
-Description: Koppling till Valideratext.se för redaktionellt stöd. Valideratext.se hjälper dig att skriva texter som är enkla och lätta att förstå.
-Version: 0.6
-Author: Hypernode AB, Andreas Ek
-Author URI: http://www.hypernode.se
+Plugin URI: http://wordpress.org/extend/plugins/valideratext/
+Description: Koppling till Valideratext.se för redaktionellt stöd (API v3). Valideratext.se hjälper dig att skriva texter som är enkla och lätta att förstå.
+Version: 1.0
+Author: Flowcom AB, Andreas Ek
+Author URI: http://www.flowcom.se
 License: GPL2
 */
 
